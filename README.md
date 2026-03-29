@@ -9,7 +9,7 @@ Focado em **arquitetura de sistemas, persistência de dados e código limpo (Cle
 ## 🌐 Onde me encontrar
 
 [<img src="https://img.shields.io/badge/GITHUB-DAVID--OLIVEIRA--SILVA-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/david-oliveira-silva)
-[<img src="https://img.shields.io/badge/LINKEDIN-DAVID_OLIVEIRA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/david-oliveira-silva/)
+[<img src="https://img.shields.io/badge/LINKEDIN-DAVID_OLIVEIRA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/david-oliveira-silva62/)
 
 ---
 
