@@ -1,9 +1,9 @@
 # Olá 👋, eu sou David Oliveira
 
-🚀 **Desenvolvedor de Software | Especialista em C#, .NET & JavaScript** 🇧🇷 Brasil
+🚀 **Desenvolvedor de Software | Especialista em C#, .NET e JavaScript** 🇧🇷 Brasil
 
-Focado em **arquitetura de sistemas, persistência de dados e código limpo (Clean Code).**
-Busco constantemente evoluir tecnicamente, aplicando padrões modernos e entregando código de alta qualidade.
+Focado em **arquitetura de sistemas, persistência de dados e código limpo (Clean Code).** Busco evoluir constantemente tecnicamente, aplicando padrões modernos e entregando código de alta qualidade.
+
 ---
 
 ## 🌐 Onde me encontrar
